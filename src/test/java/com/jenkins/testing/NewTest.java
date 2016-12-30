@@ -17,7 +17,7 @@ public class NewTest {
 		// driver.findElement(By.id("authenticatePw")).sendKeys("@College1");
 		 //driver.findElement(By.id("authenticateSubmit")).click();
 		//Thread.sleep(5000);
-	  String appUrl = "https://accounts.google.com";
+	  String appUrl = "https://msohaibdevvm1.dev.sagedining.com/intranet";
 	                driver.get(appUrl);
 		
 	  
